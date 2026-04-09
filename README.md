@@ -96,3 +96,6 @@ Retail-Sales-Optimizer/
 ├── retail_pipeline.ipynb   
 ├── requirements.txt
 └── README.md
+
+## License
+This project is for academic and research purposes.
